@@ -1,0 +1,127 @@
+Symptom,Recommendation
+I burned my hand,Cool the burn under running water for 10-20 minutes. Do not use ice. Cover with a sterile dressing.
+My hand got burned,Run cool water over the burn for 10-15 minutes. Apply a clean cloth and avoid breaking blisters.
+I touched a hot pan,Cool the burn under running water for 15 minutes. Cover with a sterile bandage. Seek medical help if severe.
+I burned my hand and it’s blistering badly,Cool the burn under running water for 20 minutes. Do not pop blisters. Cover with a sterile dressing and seek medical help.
+I scalded my arm with boiling water,Cool the scald under running water for 15-20 minutes. Cover with a clean bandage. Seek medical attention if skin is broken.
+I cut my finger,Rinse the cut under clean water. Apply pressure with a clean cloth to stop bleeding. Cover with a bandage.
+My finger is sliced open,Apply firm pressure with a clean cloth to control bleeding. Cover with a sterile dressing. Seek medical help.
+I got a deep cut on my leg,Apply pressure with a clean cloth to stop bleeding. Elevate the leg. Seek medical attention immediately.
+I cut my hand and it’s bleeding a lot,Apply firm pressure with a sterile cloth. Elevate the hand. Call emergency services if bleeding doesn’t stop.
+I have a laceration on my arm,Clean the wound with water. Apply pressure to stop bleeding. Seek medical help for deep or wide cuts.
+My nose is bleeding,Pinch the soft part of the nose and lean forward. Hold for 10-15 minutes. Avoid tilting head back.
+I got a nosebleed after a hit,Pinch the nose gently and lean forward. Apply a cold pack to the nose bridge. Seek medical help if it persists.
+My nose won’t stop bleeding,Pinch the nose and lean forward for 15 minutes. Apply a cold cloth. Seek medical attention if bleeding continues.
+I think I broke my arm,Immobilize the arm with a splint or sling. Apply ice wrapped in a cloth. Seek medical help immediately.
+My arm hurts and I can’t move it,Keep the arm still. Use a sling or splint. Apply ice and seek medical attention.
+I fell and my leg might be fractured,Keep the leg still. Use a splint if possible. Apply ice and elevate. Get medical attention immediately.
+My bone is sticking out,Do not move the limb. Cover with a clean cloth. Call emergency services immediately.
+I sprained my ankle,"Rest the ankle. Apply ice for 15-20 minutes, compress with a bandage, and elevate."
+I twisted my ankle and it’s swollen,"Apply ice for 15 minutes, wrap with a bandage, and elevate. Rest and avoid weight-bearing."
+My ankle is sprained and I can’t walk,Rest and elevate the ankle. Apply ice and compression. Seek medical help if swelling is severe.
+I strained my wrist,"Rest the wrist. Apply ice for 15 minutes, wrap with a bandage, and keep elevated."
+My wrist hurts after lifting,Apply ice for 15-20 minutes. Rest and compress with a bandage. Seek medical help if pain persists.
+I pulled a muscle in my back,Rest and apply ice for 15 minutes. Avoid strenuous activity. Seek medical help if pain is severe.
+My shoulder is dislocated,Keep the arm still in a sling or supported position. Seek medical help immediately.
+I think my shoulder popped out,Do not try to reposition it. Support the arm and seek medical attention immediately.
+My elbow feels dislocated,Immobilize the arm with a sling. Apply ice and seek medical help immediately.
+I hit my head hard,Rest and apply ice to any swelling. Monitor for confusion or vomiting. Seek medical help if symptoms worsen.
+I bumped my head and feel dizzy,Rest in a quiet place. Apply ice to swelling. Seek medical attention if dizziness persists.
+I hit my head and I’m nauseous,Lie down and avoid sudden movements. Seek medical help immediately for nausea or confusion.
+I think I have a concussion,"Rest in a quiet, dark place. Avoid physical activity. Seek medical evaluation."
+I fell and might have a concussion,Rest and avoid screens or bright lights. Seek medical help for symptoms like headache or confusion.
+I hurt my back badly,Lie flat and avoid movement. Do not twist or bend. Seek medical attention immediately.
+My spine hurts after a fall,Keep still and do not move. Call emergency services. Avoid twisting the neck or back.
+I have severe back pain,Lie flat on a firm surface. Do not move if pain is intense. Seek medical help immediately.
+My child is choking,Perform 5 back blows followed by 5 abdominal thrusts. Call emergency services if choking persists.
+My toddler is choking on food,"Give 5 back blows between the shoulder blades, then 5 abdominal thrusts. Call emergency services."
+An infant is choking,Give 5 back blows and 5 chest thrusts. Call emergency services immediately.
+My baby swallowed something and is choking,Perform 5 back blows and 5 chest thrusts gently. Call emergency services immediately.
+Someone is drowning,Remove from water if safe. Begin CPR if not breathing. Call emergency services.
+I pulled someone from water and they’re not breathing,Start CPR immediately. Call emergency services. Continue until help arrives.
+I got an electric shock,Turn off power source if safe. Check breathing and pulse. Call emergency services.
+I was shocked by a wire,Ensure the power is off. Check for breathing. Call emergency services immediately.
+I’m having an allergic reaction,Use an epinephrine auto-injector if available. Call emergency services.
+I’m swelling from an allergy,Administer epinephrine if prescribed. Call emergency services immediately.
+I’m having anaphylaxis,Administer epinephrine if available. Lie down with legs elevated. Call emergency services.
+I’m having an asthma attack,Use a rescue inhaler. Sit upright and breathe slowly. Call emergency services if no improvement.
+I can’t breathe from asthma,Use an inhaler immediately. Sit upright and stay calm. Call emergency services if symptoms worsen.
+I think I’m having a heart attack,Call emergency services. Chew an aspirin if not allergic. Rest until help arrives.
+I have chest pain and shortness of breath,Call emergency services immediately. Sit or lie down. Chew aspirin if advised.
+Someone is having a stroke,Call emergency services. Note the time symptoms started. Keep them calm and still.
+I think my mom is having a stroke,Call emergency services. Keep her still and note when symptoms began. Do not give food or drink.
+Someone is having a seizure,Clear the area of objects. Cushion their head. Time the seizure. Call emergency services if it lasts over 5 minutes.
+My friend is convulsing,Protect them from injury. Do not restrain. Time the seizure and call emergency services if prolonged.
+My blood sugar is low,"Consume 15g of fast-acting sugar (e.g., juice or candy). Recheck sugar after 15 minutes."
+I feel shaky and sweaty,"Eat or drink 15g of sugar (e.g., glucose tablets). Rest and recheck blood sugar after 15 minutes."
+My blood sugar is high,Drink water and contact a doctor. Seek emergency care if symptoms like vomiting occur.
+I’m diabetic and feel confused,Drink water and seek medical help. Call emergency services if confusion worsens.
+I have heat exhaustion,Move to a cool place. Drink water or electrolyte drinks. Rest and cool the body.
+I’m overheating and dizzy,Lie down in a cool area. Sip water or sports drinks. Apply cool cloths.
+I’m suffering from heat stroke,Call emergency services. Cool the body with water or ice packs. Do not give fluids.
+I’m burning up and confused,Call emergency services. Apply ice packs or cool water to the body. Monitor breathing.
+I’m hypothermic,Move to a warm place. Remove wet clothing and wrap in blankets. Seek medical help.
+I’m freezing and shivering,Warm the person gradually with blankets. Offer warm drinks if conscious. Seek medical attention.
+I have frostbite on my fingers,Warm the area gently with warm (not hot) water. Do not rub. Seek medical attention.
+My toes are numb and discolored,Gently warm the area with warm water. Do not massage. Seek medical help immediately.
+I swallowed poison,Call poison control or emergency services immediately. Do not induce vomiting unless instructed.
+I drank something toxic,Call emergency services or poison control. Do not induce vomiting. Provide details of the substance.
+I inhaled toxic fumes,Move to fresh air immediately. Call emergency services. Monitor breathing.
+I breathed in chemical fumes,Get to fresh air. Call emergency services if breathing is difficult or symptoms persist.
+I got a snake bite,Keep the bitten area still and below heart level. Call emergency services. Do not apply ice or a tourniquet.
+A snake bit my leg,Stay calm and keep the limb still. Call emergency services immediately. Do not suck venom or cut the wound.
+A spider bit me,Wash the bite with soap and water. Apply a cold pack. Seek medical help if symptoms worsen.
+"I have a red, painful spider bite",Clean the bite area. Apply ice and elevate. Seek medical help if swelling or fever occurs.
+A dog bit me,Wash the wound with soap and water. Apply a clean bandage. Seek medical attention.
+My arm was bitten by a stray dog,Clean the bite thoroughly. Apply a sterile dressing. Seek medical help for rabies risk.
+Something is in my eye,Rinse the eye gently with clean water for 15 minutes. Do not rub. Seek medical help if needed.
+I got dust in my eye,Flush the eye with water or saline for 15 minutes. Seek medical help if irritation persists.
+A chemical splashed in my eye,Rinse the eye with clean water for 20 minutes. Call emergency services.
+My ear is bleeding,Apply gentle pressure with a clean cloth. Seek medical attention immediately.
+Something is stuck in my ear,Do not try to remove it. Keep the ear dry and seek medical help immediately.
+My nail is crushed,Rinse with clean water. Apply ice wrapped in a cloth. Seek medical help if severe.
+My fingernail is torn off,Clean the area gently. Apply a sterile bandage. Seek medical attention.
+My tooth got knocked out,"Rinse the tooth gently, keeping it by the crown. Try to reinsert it or store in milk. See a dentist immediately."
+I broke a tooth,Rinse the mouth with warm water. Apply a cold pack to the face. See a dentist immediately.
+I fainted,Lie down with legs elevated. Ensure fresh air. Seek medical help if consciousness doesn’t return.
+I passed out and hit my head,Lie flat with legs elevated. Check for head injury signs. Seek medical help immediately.
+I have a puncture wound,Clean the wound with soap and water. Do not remove embedded objects. Seek medical attention.
+I stepped on a nail,Wash the wound thoroughly. Do not remove the nail if deep. Seek medical help immediately.
+My hand is crushed,Elevate the hand. Apply ice wrapped in a cloth. Seek medical help immediately.
+My foot was crushed under a weight,Elevate the foot. Apply ice and keep still. Call emergency services.
+My finger was amputated,Wrap the severed part in a clean cloth and place in a sealed bag on ice. Seek emergency care.
+I lost part of my toe,Apply pressure to stop bleeding. Preserve the part in a clean bag on ice. Call emergency services.
+I got a chemical burn,Rinse the area with cool water for 20 minutes. Remove contaminated clothing. Seek medical help.
+A chemical burned my skin,Flush the skin with water for 20 minutes. Remove affected clothing. Call emergency services.
+I have sunburn,Cool the skin with a damp cloth. Apply aloe vera. Drink water and avoid further sun exposure.
+My back is red from sunburn,Take a cool shower. Apply aloe or moisturizer. Stay hydrated and avoid sun.
+I have a blister,"Leave it intact. Cover with a sterile bandage. If burst, clean and apply an antibiotic ointment."
+My foot has a painful blister,Protect the blister with a bandage. Do not pop it. Clean if burst and apply ointment.
+I have a bad bruise,Apply ice wrapped in a cloth for 15 minutes. Elevate the area. Rest.
+My leg is bruised and swollen,Apply ice for 15-20 minutes. Elevate and rest. Seek medical help if swelling worsens.
+I have a splinter,Wash the area. Remove with clean tweezers. Apply an antibiotic ointment.
+I got a splinter under my nail,Clean the area. Do not remove if deep. Seek medical help to avoid infection.
+I’m hyperventilating,Breathe slowly into a paper bag or cupped hands. Sit calmly. Seek help if it persists.
+I’m breathing too fast,Sit down and breathe slowly through pursed lips. Use a paper bag if needed. Seek help if no improvement.
+I’m in shock,Lie down with legs elevated. Keep warm. Call emergency services.
+I feel faint and cold,Lie flat with legs raised. Cover with a blanket. Call emergency services if symptoms persist.
+I inhaled carbon monoxide,Move to fresh air immediately. Call emergency services. Monitor breathing.
+I feel dizzy from fumes,Get to fresh air. Sit or lie down. Call emergency services if dizziness continues.
+Someone overdosed on drugs,"Call emergency services. Stay with the person. If not breathing, start CPR."
+My friend took too many pills,Call emergency services immediately. Provide details of the substance. Stay with them.
+I have motion sickness,Sit still and focus on the horizon. Get fresh air. Avoid reading or screens.
+I feel nauseous in the car,Look forward at a fixed point. Open a window for fresh air. Sip water.
+I’m vomiting badly,Sip small amounts of water or electrolyte drinks. Rest. Seek medical help if persistent.
+I have diarrhea and feel weak,Drink oral rehydration solution. Rest. Seek medical help if dehydration worsens.
+I have severe menstrual cramps,Apply a heating pad. Take an over-the-counter pain reliever. Rest. Seek help if fainting occurs.
+My cramps are making me faint,Lie down with legs elevated. Apply heat to the abdomen. Seek medical help if fainting occurs.
+I was attacked by an animal,Wash the wound with soap and water. Seek medical attention for rabies risk.
+A wild animal bit me,Clean the wound thoroughly. Apply a bandage. Seek medical help immediately.
+I have a gunshot wound,Apply firm pressure to control bleeding. Call emergency services. Keep still.
+I was shot in the arm,Press a clean cloth firmly on the wound. Call emergency services immediately.
+I was stabbed,Apply pressure to the wound with a clean cloth. Call emergency services immediately.
+I got stabbed in the leg,Apply firm pressure to stop bleeding. Keep the leg still. Call emergency services.
+I was in a car accident,Check for injuries. Call emergency services. Keep the neck and back still if spinal injury is suspected.
+I crashed my car and my neck hurts,Do not move. Keep the neck and back still. Call emergency services immediately.
+I inhaled smoke,Move to fresh air. Cough to clear airways. Call emergency services if breathing is difficult.
+I was in a fire and can’t breathe,Get to fresh air. Sit upright and breathe slowly. Call emergency services immediately.
